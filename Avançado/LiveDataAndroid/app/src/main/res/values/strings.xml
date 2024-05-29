@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LiveDataAndroid</string>
+    <string name="text_value_initial">O valor do contador é 0</string>
+    <string name="btn_initial_text">Soma 1</string>
+</resources>
